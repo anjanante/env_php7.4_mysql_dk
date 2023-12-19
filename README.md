@@ -18,3 +18,6 @@ Configuring the database in the .env file
 Configuring Maildev in the .env file
 
 `MAILER_DSN=smtp://maildev_docker_sf:25`
+
+![Symfony project](https://raw.githubusercontent.com/anjanante/env_php7.4_mysql_dk/main/sf5.4.33.png)
+
